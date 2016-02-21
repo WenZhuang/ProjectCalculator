@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">老爸的计算器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_circle">圆</string>
+    <string name="prompt">请选择需要计算的几何图形</string>
+    <string name="title_activity_ellipse">椭圆</string>
+    <string name="title_activity_arch">弓形</string>
+    <string name="title_activity_trap">梯形</string>
+
+</resources>
